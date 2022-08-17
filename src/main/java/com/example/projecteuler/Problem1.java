@@ -1,7 +1,7 @@
 package com.example.projecteuler;
 
 
-public class problem1 {
+public class Problem1 {
 
     public static void main(String[] args) {
 
