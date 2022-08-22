@@ -22,6 +22,7 @@ public class Problem3 {
                 k++;
             }
         }
+
         return primes.get(primes.size()-1);
     }
 }
